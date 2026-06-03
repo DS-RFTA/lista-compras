@@ -1,2 +1,4 @@
 # lista-compras
-App de Lista de Compras iinteligente!
+App de Lista de Compras Iinteligente!
+
+
