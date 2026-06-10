@@ -1,4 +1,13 @@
 import streamlit as st
+import pandas as pd
+import sqlalchemy
+import datetime
+import json
+
+import time
+import os
+import dotenv
+dotenv.load_dotenv()
 
 
 st.set_page_config(page_title="Lista de Compras Inteligente", page_icon=":sparkles:", layout="centered")
